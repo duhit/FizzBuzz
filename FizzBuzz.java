@@ -33,8 +33,6 @@ public class FizzBuzz {
 			}else{
 				System.out.println("you have entered = " + userInput);
 			}
-		}
-		
-		
+		}		
 	}
 }
